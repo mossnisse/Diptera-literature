@@ -1,0 +1,764 @@
+Bestämningslitteratur För Svenska Tvåvingar (Diptera)
+Nils Ericson 2019-03-09
+2019-03-13. Dolichopodidae Updaterad med data från Magnus Persson och Culicidae från Anders Lindström 
+Generellt
+När man söker diverse revisioner brukar Google schoolar fungera rätt så bra och jag rekommenderar att kolla mot Dyntaxa om arterna som är kända från Sverige finns med. 
+Diptera.info är också en utmärkt resurs där det finns bildgallerier som är kontrollerade att de är korrekt artbestämda och en stor andel av värdens Diptera experter som svarar på frågor https://diptera.info/news.php
+Boldsystem http://www.boldsystems.org/ Har foton på en del obskyra flugor som borde vara korrekt artbestämda.
+Oostrebroek, P.  2007. The European Families of the Diptera.
+Bra nycklar till familj för alla Diptera familjer  som ä representerade I Europa. Rikligt med tuschteckningar över karaktärer.  Ca en halv sida med text om varje familj (Systematik, Characters, Biology and identifikation referenses.
+Språk: Engelska
+Taxonomisk: Diptera
+Geografisk: Europa
+Papp, L. & Darvas, B. (Editors)  1997-2000 Contributions to a manual of Palaearctic Diptera
+Nycklar ner till Släkte för de flesta familjerna några familjer saknas i verket. Några sidor med text om biologi m.m. om varje familj. Nycklarna håller generalt hög kvalitet men man önskar sig flera teckningar.
+Papp, L. & Darvas, B. (Editors) 1997 Contributions to a manual of Palaearctic Diptera V2
+Språk: Engelska
+Taxonomisk:  Myggor och Lägre flugor
+Geografisk: Palearktisk
+Papp, L. & Darvas, B. (Editors) 1998 Contributions to a manual of Palaearctic Diptera V3
+Språk: Engelska
+Taxonomisk:  Högre flugor
+Geografisk: Palearktisk
+Papp, L. & Darvas, B. (Editors) 2000 Contributions to a manual of Palaearctic Diptera Appendix
+Språk: Engelska
+Taxonomisk: Blandade diptera (Familjer som inte kom med i V2&3
+Geografisk: Palearktisk
+Shtakel'berg, A.A. & Narchuk E.P. (Editors) 1989. Keys to the Insects of the European Part of the USSR Volume V: Diptera 
+Översat till engelska från Shtakel'berg, A.A. & Narchuk E.P. (Editors) 1969. Opredelitel' Nasekomykh Evropeiskoi Chasti SSSR.
+Nycklar ner till art för alla Diptera. Det är lite blandad kvalitet och vissa delar är föråldrade . Enkla tuschteckningar som inte alltid räcker till. Det är många förkortningar och termer som inte är konsekventa och ofta inte förklarade (Översättning?).  Nästan alla arter som är kända från Sverige är också kända från Den Europeiska delen av Ryssland så det är mest nybeskriva arter som saknas. Del1: Mygor, lägre flugor + Lochopteride & Phoridae. Del2: resten.
+Språk: Engelska eller Ryska
+Geografi: Europeiska delen av före detta Sovjet unionen
+Lindner, E. (Editor) Die Fliegen der Palaerktishen Region
+Ett stort verk som aldrig blev riktigt färdig. De startade i början av 1900 talet. Några volymer är färdiga andra finns bara ”leaflets”. Nycklar ner till art och tuschteckningar på många viktiga karaktärer som genitalier. Vissa grupper saknas och för andra så är verket föråldrat. Det kan också vara lite överväldigande att hitta de som kan tänkas dyka upp i Sverige bland alla Palearktiska arter.
+Språk: Tyska
+Taxonomisk: Palearktisk
+Nilsson, A. (Editor) 1997. Aquatic Insects of North Europe.
+Välilustrerade nycklar till släkten och ibland art för några mestadels akvatiska Diptera familjer Både adulter och larver. Några mindre familjer med mestadels akvatiska larvers saknas.
+Underordning Nematocera (Myggor)
+Överfamilj Anisopodoidea
+Familj Anisopodidae
+Bara ett släkte i Svergie: Sylvicola. 7 arter. 
+Harto, A. 2011. Suomen ikkunasääsket –Finnish window gnats w-album 10.
+Språk: Finska och Engelska
+Online Identification Keys - The Palaearctic species of Sylvicola (Diptera_ Anisopodidae)
+https://www.online-keys.net/infusions/keys/keys_view.php?key_no=1
+Språk: Engelska
+Krivosheina, N.P. & Menzel, F. 1998. The Palaearctic species of the genus Sylvicola Harris, 1776. Beitr. Ent.
+Familj Mycetobiidae
+Bara ett släkte i Sverige: Mycetobia. 3 Arter
+? Vet inte vad som är bra
+V1 page 402-403 i (Keys to the Insects of the European Part)
+V1a Phryneidae page 7-8  I (DFDPR)
+Överfamilj Bibionoidea
+Familj Bibionidae
+3 släkten, 24 arter.
+Skartveit, J. 2004. Nordiska hårmygg (Bibionidae) Larver og imagines. Norske Insekttabeller 17.
+http://www.entomologi.no/journals/tabell/pdf/Norske_Insekttabeller_17.pdf
+Karle, I-D. 1994 Hårmyggor av släktet Bibio (Diptera, Bibionidae) i Sverige, med tre för landet nya arter.  Entomologisk tidsskrift 115(4):157-164
+Östberg, A. 1992. De Svenska hårmyggorna av släktet Dilophus (Diptera, Bibionidae), med en ny art för Sverige. Entomologisk Tidsskrift 113 (4):47-51
+Överfamilj Chironomoidea
+Familj Ceratopogonidae
+21 Släkten 165 arter
+kan inte
+Familj Chironomidae
+145 Släkten, 561 arter
+kan inte
+Simuliidae
+7 Släkten, 69 Arter
+Jensen, F. 1997 Diptera Simuliidae, Blacklies in Nilsson, A. (Editor) 1997. Aquatic Insects of North Europe. p 209-241
+Nyklar till art för larver och puppor.
+Rubtsov, I.A. 1990 2 ed. Blackflies (Simuliidae).  Fauna of the USSR Diptera Volume 6, Part 6.
+Språk: Engelska eller Ryska.
+Familj Thaumaleidae
+1 Släkte, 2 arter. Thaumalea testacea & Thaumalea truncata
+Disney, R.H.L. 1999. British Dixidae and Thaumaleidae. Keys with Ecological notes. Freshwater Biological Association. p. 90-120
+Överfamilj Culicoidea
+Familj Chaoboridae
+3 Släkten, 8 Arter
+kan inte
+Familj Culicidae
+5 Släkten, 51 arter
+Becker et al 2010. Mosquitoes and their control. Springer 
+(Alla europeiska arter)
+Snow 2015. Mosquitoes. Naturalists handbooks 14 
+(brittiska arter)
+Gutsevich et al 1974. Fauna of the USSR, Diptera Vol 3 No 4 Mosquitoes Family Culicidae.
+(Översatt fr. ryska. Många arter lite utdaterad taxonomi)
+Familj Dixidae
+2 Släkten, 31 arter
+Disney, R.H.L. 1999. British Dixidae and Thaumaleidae. Keys with Ecological notes. Freshwater Biological Association. p. 16-89.
+Överfamilj Pachyneuroidea
+Familj Pachyneuridae
+1 Art Pachyneura fasciata
+Oostrebroek, P.  2007. The European Families of the Diptera. borde duga men det finns en till art I Ryssland man kanske ska söka efter I Sverige.
+Överfamilj Psychodoidea
+Familj Psychodidae
+23 Släkten, 63 arter
+Överfamilj Ptychopteroidea
+Familj Ptychopteridae
+1 Släkte, 8 arter
+Andersson, H. 1997. Diptera Ptychopteridae, Phantom Crane Flies in Nilsson, A. (Editor) 1997. Aquatic Insects of North Europe.  p 193-207
+Nycklar till art för både adulter och larver. Kort text om varje art. Bra teckningar på genitalier
+Språk: Engelska.
+Överfamilj Scatopsoidea
+Familj Canthyloscelidae
+2 Släkten & 2 Arter, Hyperoscelis eximia & Synneuron annulipes.  rykten om en till…
+Oostrebroek, P.  2007. The European Families of the Diptera. borde duga
+Synneuron annulipes & Hyperoscelis eximia nycklas ut i två separata familjer men Hyperoscelis veternosa ryktas ha fångats i den tyska ubåts kaptenens fälla i Kaltisbäcken?
+Andersson, H. 1982. De svenska arterna av myggfamiljerna Synneuridae Canthyloscelidae och Scatopsidae. Entomologisk tidsskrift 103:5-11
+Hutson, A.M. 1977. A revision of the families Synneuridae and Canthyloscelidae. Bulletin of the British Museum (Natural History). 35: 67-100. https://www.biodiversitylibrary.org/page/2277611#page/87/mode/1up
+Familj Scatopsidae
+17 Släkten, 38 Arter
+Andersson, H. 1982. De svenska arterna av myggfamiljerna Synneuridae Canthyloscelidae och Scatopsidae. Entomologisk tidsskrift 103:5-11
+Scatopsidae - Online Identification Keys https://www.online-keys.net/infusions/keys/keys_view.php?key_no=23
+
+Överfamilj Sciaroidea
+Familj Bolitophilidae 
+1 Släkte: Bolitophila 27 Arter
+Plassmann 1975. Revision der europäischen Arten der Pilzmückengattung Bolitophila Meigen (Diptera: Mycetophilidae) Ent. Scand p. 145-157
+Hutson, A.M., Ackland, D.M. & Kidd, L.N. 1980. Mycetophilidae (Bolitophilinae, Ditomyiinae, Diadocidiinae, Keroplatinae, Sciophilinae and Manotinae) Ditperam, Nematocera. p26-28
+Nycklar till art och Genitaliebilder. Tyvär så saknas en held del Svenska arter i Storbritannien.
+Zaitsev 1994 Fungus gnats of the fauna of Russia and adjacent regions (översat titel). Раrt 1 p. 40– 59
+Språk: Ryska
+Familj Cecidomyiidae
+156 Släkten 752 Arter
+kan inte
+Familj Diadocidiidae
+1 Släkte Diadocidia, 4 arter
+kan inte
+Hutson, A.M., Ackland, D.M. & Kidd, L.N. 1980. Mycetophilidae (Bolitophilinae, Ditomyiinae, Diadocidiinae, Keroplatinae, Sciophilinae and Manotinae) Ditperam, Nematocera. p29
+3 arter.
+Landrock, K. 1940 Zweiflüger oder Diptera VI: Pilzmücken oder Fungivoridae (Mycetophilidae). Di Tierwelt Deutschlands. p. 12-13
+2 arter
+Språk: Tyska
+Zaitsev 1994 Fungus gnats of the fauna of Russia and adjacent regions (översat titel). Раrt 1 p. 59 – 62
+Språk: Ryska
+Shtakel’berg 20. Family Diadocidiidae in keys to the european part of the USSR p.
+bara två arter.
+Landrock 1927 3. Underfamilie: Diadocidiinae in DFDPR p11-12
+bara 2 arter
+Familj Ditomyiidae
+2 Släkten., 3 arter. Ditomyia fasciata, Symmerus annulatus, Symmerus nobilis
+kan inte
+Rindal, E. & Gammelmo, Ø. 2006. On the family Ditomyiidae (Diptera, Sciaroidea) in Norway
+Hutson, A.M., Ackland, D.M. & Kidd, L.N. 1980. Mycetophilidae (Bolitophilinae, Ditomyiinae, Diadocidiinae, Keroplatinae, Sciophilinae and Manotinae) Ditperam, Nematocera. p28
+2 arter
+Landrock, K. 1940 Zweiflüger oder Diptera VI: Pilzmücken oder Fungivoridae (Mycetophilidae). Di Tierwelt Deutschlands. p. 7-9
+Språk: Tyska
+2 arter
+Zaitsev 1994 Fungus gnats of the fauna of Russia and adjacent regions (översat titel). Раrt 1 p. 32 – 40
+Språk: Ryska
+Landrock 1927. Gattung: Ditomyia in DFDPR 8. Fungivoridae p 7
+2 arter
+
+Munroe, D.D. 1974. The systematics, phylogeny, and zoogeography of Symmerus Walker and Australosymmerus Freeman (Diptera: Mycetophilidae: Ditomyiinae). Mem. entomol. soc. Can. 92. 1 – 183. Ottawa.
+Familj Keroplatidae
+13 släkten, 45 arter.
+Søli, G. Vockeroth, J.R. Matile, L. A.4. Families of Sciaroidea. I Papp, L. & Darvas, B. (Editors) 1997 Contributions to a manual of Palaearctic Diptera V2.
+Nyckel till släkterna som jag tycker fungerar bra.
+Sen blir det svårare att gräva fram något för att komma hela vägen till art.
+Fungus Gnats Online http://sciaroidea.info/taxonomy/40255
+Bra internet resurs för att hitta litteratur och info.
+Hutson, A.M., Ackland, D.M. & Kidd, L.N. 1980. Mycetophilidae (Bolitophilinae, Ditomyiinae, Diadocidiinae, Keroplatinae, Sciophilinae and Manotinae) Ditperam, Nematocera. p. 29-40 
+Nycklar till art och Genitaliebilder. Tyvär så saknas en held del Svenska arter i Storbritannien.
+Landrock, K. 1940 Zweiflüger oder Diptera VI: Pilzmücken oder Fungivoridae (Mycetophilidae). Di Tierwelt Deutschlands. p. 13-27
+Språk: Tyska
+Zaitsev 1994 Fungus gnats of the fauna of Russia and adjacent regions (översat titel). Раrt 1 p. 63 – 103
+Språk: Ryska
+Shtakel’berg, A.A. 19. Family Ceroplatidae (Keroplatidae) in keys to the European part of the USSR p389-394
+
+Landrok, K. 1927 Fungivoridae 5. Underfamilia: Ceroplatinae (DFDPR) p 24-38
+Språk: Tyska
+
+Økland, B. & Søli, G. 1992.  The genus Keroplatus Bosc, 1792 - an interesting addition to the Norwegian fauna (Diptera: Keroplatidae) Fauna norv. Ser. B 39:85-88.
+Landrock, K. 1917. Die Pilzmückengattung Macrocera p. 67-102. Wiener Entomologische Zeitung, XXXVI jahrg, Heft 111-V
+Familj Mycetophilidae
+66 Släkten, 670 arter
+Stor och svår familj. Vi behöver gå in på literatur för olika släkten…
+Søli, G. Vockeroth, J.R. Matile, L. A.4. Families of Sciaroidea. I Papp, L. & Darvas, B. (Editors) 1997 Contributions to a manual of Palaearctic Diptera V2.
+Nyckel till släkterna som jag tycker fungerar bra.
+Sen blir det svårare att gräva fram något för att komma hela vägen till art.
+Fungus Gnats Online http://sciaroidea.info/taxonomy/40255
+Bra internet resurs för att hitta litteratur och info.
+Zaitsev 1994 Fungus gnats of the fauna of Russia and adjacent regions (översat titel). Раrt 1 p. 103-276
+Språk: Ryska
+Zaitzev 2003. Fungus gnats (Diptera, Sciaroidea) of the fauna of Russia and adjacent regions. Part II. --Int. J. Dipterological Research, 14(2-4):77-386
+Språk: Engelska
+Underfamilj Mycetophilinae
+Hutson, A.M., Ackland, D.M. & Kidd, L.N. 1980. Mycetophilidae (Bolitophilinae, Ditomyiinae, Diadocidiinae, Keroplatinae, Sciophilinae and Manotinae) Ditperam, Nematocera. p. 40-69. 
+Underfamiljen Sciophilinae & Manotinae. Nycklar till art och Genitaliebilder. Tyvär så saknas en held del Svenska arter i Storbritannien. 
+Landrock, K. 1940 Zweiflüger oder Diptera VI: Pilzmücken oder Fungivoridae (Mycetophilidae). Di Tierwelt Deutschlands. p. 27-159
+Språk: Tyska
+Ostroverkhova, G.P. & Shtakel’berg, A.A. 24. Family Mycetophilidae (Fungicoridae) in keys to the European part of the USSR. p404-487
+
+Landrock 1927 8. Fungivoridae DFDPR
+
+Familj Sciaridae
+Släkten 26 Arter 302
+kan inte
+Överfamilj Tipuloidea
+Familj Cylindrotomidae
+Släkten 4, 5
+kan inte
+Familj Limoniidae
+släkten 50 arter 216
+Familj Tipulidae
+Släkten 9, Arter 132
+Överfamilj Trichoceroidea
+Familj Trichoceridae
+Släkten 2, arter 27
+Dahl 1966 Notes on the taxonomy and distribution of Swedish Trichoceridae (Dipt. Nemat.) Opuscula Entomologica 31 p93-118
+Språk: Engelska
+Det är nog här man ska börja med vintermyggorna. Det finns en nyckel, genitaliebilder och beskrivningar till de då kända arterna. Sen får man komplettera med de andra artiklarna.
+Dahl 1967 Aditional notes on the taxonomy and distribution of Swedish Trichoceridae. Opuscula Entomologica 32. p188-200
+En ny nyckel över Släktet Metatrichocera med beskrivningar och Genitaliebilder
+Dahl 1976 Description of three new species of Trichoceridae (Diptera, Nematocera) from nothern Sweden and the Alps. Entomologica Scandinavica 7 (1): 59-65.
+Trichocera impicata & T. mendli beskrivs som nya arter för vetenskapen från Norra Sverige
+Petrašiunas, A. 2009  TAKSONOMINIR FILOGENETIN GENTIES TRICHOCERA MEIGEN, 1803 (DIPTERA, TRICHOCERIDAE) ANALIZ
+Språk: Letiska!
+Verkar vara ett gediget arbete och användbart trots det udda språkvalet då det finns genitaliebilder och vetenskapliga namn
+Underordning Brachycera (Flugor)
+Orthorrhapha (Lägre flugor)
+Överfamilj Asiloidea
+Familj Asilidae
+Släkten 20, Arter 39
+En populär familj med många olika böcker och artiklar på olika språk, tyvär finns inget modernt verk som innefattar norra Sverige. 
+Choerades lapponicus & Cyrtopogon lapponicus är två nordliga arter som inte finns på kontinenten.
+Larsen, M.N. & Meier, R. 2004. Species diversity, distribution, and conservation status of the Asilidae (Insecta: Diptera) in Denmark. Steenstrupia
+Här finns en bra nyckel illustrerad med enkla och tydliga tushtekningar.
+Språk: Engelska
+Weinberg, M. & Bächli, G. 1995. Diptera Asilidae Fauna Insecta Helvetica  11. 
+Språk: Tyska
+Hellqvist 2007 Nordlig rovfluga, Choerades lapponicus finns ännu i Sverige. Natur i norr 26 (1)9-15
+Foton och beskrivning av Choerades lapponicus.
+Språk: Svenska
+Löfgren, P. 2011. Lapprovfluga, Cyrtopogon lapponicus, (Diptera, Asilidae) återfunnen på ett brandfält i Västerbottens kustland. Entomologisk tidsskrift 132 (2): 125-128.
+Foto och beskrivning av Cyrtopogon lapponicus
+Språk: Svenska
+Geller-Grim, F. Robber Flies (Asilidae) http://www.geller-grimm.de/key.htm
+Familj Bombyliidae
+Släkten 8, Arter 21
+Falck, M. 2009. The Norwegian species of Villa Lioy, 1864 (Diptera, Bombyliidae) Norwegian Journal of Entomology 56, 120–130.
+van Veen, M. Bee-flies (Diptera: Bombyliidae) of Northwest Europe. http://home.hccnet.nl/mp.van.veen/bombyliidae/index.html
+Stubs, A. & Drake, M. 2001. Bristsh Solderflies and their allies. 
+Mycket trevlig bok med fina bilder och bra nycklar, utförliga beskrivningar med ekologi m.m. men det saknas rätt så många arter i Storbritanien som finns i Sverige.
+
+Familj Mythicomyiidae
+1 Art
+Oostrebroek, P.  2007. The European Families of the Diptera.
+borde räcka då det bara är känt en art från Sverige.
+Familj Scenopinidae
+1 Släkte, 2 arter
+Greve, L. 1993 2 ed. Fluer (Diptera) Ibisfluer (Athericidae) Snappefluer (Rhagionidae), Vindsfluer (Scenopinidae) Kulefluer (Acroceridae) Norske Insekttabeller 1. p. 16-17 http://www.entomologi.no/journals/tabell/pdf/Norske_Insekttabeller_01.pdf
+Stubs, A. & Drake, M. 2001. Bristsh Solderflies and their allies. 
+Familj Therevidae
+Släkten 8 Arter 22
+Falck 2011 The stiletto flies (Diptera, Therevidae) of Norway. Norwegian Journal of Entomology 58, 131–163.
+Haarto & Winqvist 2006 Finish flies of the family Therevidae. Entomologica Fennica 17: 46-55.
+van Veen, M. 2015. Therevidae of Northwest Europe http://home.hccnet.nl/mp.van.veen/therevidae/therevidae.html
+Överfamilj Stratiomyoidea
+Familj Xylomyidae
+Släkten 2, arter 3
+Family Solvidae in Rozkožný, R. 1973. The Stratiomyioidea (Diptera) of Fennoscandia and Denmark. p. 17-24.
+Key to some European species of Xylomyidae. Online-Keys https://www.online-keys.net/infusions/keys/keys_view.php?key_no=10
+
+Familj Stratiomyidae
+17 släkten, 46 arter.
+Rozkožný, R. 1973. The Stratiomyioidea (Diptera) of Fennoscandia and Denmark. Fauna entomologica Scandinavica Volume 1.
+Kahanpää 2010. Finnish species of Nemotelus (Diptera: Stratiomyidae), with description of a new species. Zootaxa 2401:30-40
+Reemer, M. Veldtabel wapen- en bastvligen van Nederland (Diptera: Straiomyidae & Xylomyidae)
+Språk: Nederländska. men mycket bilder…
+Krivosheina, N. P. & Rozkosny, R. 1985. Additional noted on Palaearctic Pachygasterinae (Diptera, Stratiomyidae). Acta ent. Bohemoslov. 82, 143-149.
+Behandlar Zabrachia tenella som saknas i fauna ent. scand.
+Stubs, A. & Drake, M. 2001. Bristsh Solderflies and their allies. 
+Mycket trevlig bok med fina bilder och bra nycklar, utförliga beskrivningar med ekologi m.m. men det saknas rätt så många arter i Storbritanien som finns i Sverige.
+Överfamilj Tabanoidea
+Familj Athericidae
+2 släkten, 2 arter
+Greve, L. 1993 2 ed. Fluer (Diptera) Ibisfluer (Athericidae) Snappefluer (Rhagionidae), Vindsfluer (Scenopinidae) Kulefluer (Acroceridae) Norske Insekttabeller 1. p. 5-6 http://www.entomologi.no/journals/tabell/pdf/Norske_Insekttabeller_01.pdf
+Stubs, A. & Drake, M. 2001. Bristsh Solderflies and their allies. 
+Familj Rhagionidae
+5 släkten, 20 arter
+van Veen, M. 2008. Rhagionidae and Athericidae of Northwest Europe http://home.hccnet.nl/mp.van.veen/KEYS/Rhagionidae/Rhagionidae.html
+Stubs, A. & Drake, M. 2001. Bristsh Solderflies and their allies. 
+Mycket trevlig bok med fina bilder och bra nycklar, utförliga beskrivningar med ekologi m.m. men det saknas rätt så många arter i Storbritanien som finns i Sverige.
+Greve, L. 1993 2 ed. Fluer (Diptera) Ibisfluer (Athericidae) Snappefluer (Rhagionidae), Vindsfluer (Scenopinidae) Kulefluer (Acroceridae) Norske Insekttabeller 1. p. 5-6 http://www.entomologi.no/journals/tabell/pdf/Norske_Insekttabeller_01.pdf
+Familj Tabanidae
+6 Släkten, 45 arter
+Bohman, P. 2008. Nyckel över Sveriges bromsar (Tabanidae) https://www.faltbiologerna.se/wp-content/uploads/2018/04/nyckel_over_sveriges_bromsar_petter_bohman_faltbiologerna_2008.pdf
+Nyckel för honor.
+Chvála, M., Lyneborg, L. & Moucha, J. 1972. The Horse Flies of Europé (Diptera, Tabanidae) 
+Bromsbiblen, men det har kommit några få nya rön.
+Överfamilj Xylophagoidea
+Familj Xylophagidae
+Släkte 1 Xylophagus, art 5.
+Key: The European species of Xylophagus (Diptera: Xylophagidae) online-keys.net http://www.online-keys.net/infusions/keys/keys_view.php?key_no=3
+Familj Coenomyiidae
+1 art. Coenomyia ferruginea
+Överfamilj Nemestrenoidea
+Familj Acroceridae
+2 släkten. 4 arter
+Greve, L. Fluer (Diptera) Norkse Insekttabeller http://www.entomologi.no/journals/tabell/pdf/Norske_Insekttabeller_01.pdf
+Schlinger 1960 A revision the the genus Ogcodes Latreille with particual reference to species of the western hemisphere
+Överfamilj Empidoidea
+Collin 1961 British flies VI Empididae
+Engel, E.O. & Frey, R. 1956. 28. Empididae. Die Fliegen der Palaearktischen region Band IV.
+Ericson, N. & Hellqvist, S. 2015. Bestämningsnyckel till nordiska släkten av dansflugor och närstående familjer (Diptera: Empidoidea). Entomologisk Tidskrift 136 (1-2): 33-40.
+Hellqvist, S., Ericson, N. & Persson, M. 2015. Styltflugor och närstående familjer (Diptera: Empidoidea). Entomologisk Tidskrift 136 (1-2): 17-32.
+
+Chvála, M. 1983. The Empidoidea (Diptera) of Fennoscandia and Denmark. II General Part. The Families Hybotidae, Atelestidae and Microphoridae. Fauna Entomologica Scandinavica 12.
+Shamshev, I.V. & Sinclair, B.J. 2009 Revision of the Iteaphila setosa group. Eur. J. Entomol. 106: 441-450.
+Sinclair, B.J. & Shamshev, I.V. 2012 World revision of Iteaphila macquarti group. Zootaxa 3561: 1-61.
+Familj Atelestidae
+1 art, 1 släkte
+Atelestidae in Chvála, M. The Empidoidea (Diptera) of Fennoscandia and Denmark. II General Part. The Families Hybotidae, Atelestidae and Microphoridae. Fauna Entomologica Scandinavica 12. p228-243
+Familj Brachystomatidae
+Släkten 3 Gloma, Heleodromia, Trichopeza Arter 6
+Ericson, N. & Hellqvist, S. 2015. Bestämningsnyckel till nordiska släkten av dansflugor och närstående familjer (Diptera: Empidoidea). Entomologisk Tidskrift 136 (1-2): 33-40.
+Hellqvist, S., Ericson, N. & Persson, M. 2015. Styltflugor och närstående familjer (Diptera: Empidoidea). Entomologisk Tidskrift 136 (1-2): 17-32.
+Yang, D. Grootaert, P. & Horvat, B. 2005. TWO NEW SPECIES OF TRICHOPEZA from south china, with a key to world species. THE RAFFLES BULLETIN OF ZOOLOGY 2005 53(1): 69-72
+Familj Dolichopodidae
+Släkten 37, arter 345
+d’Assis Fonseca, E.C.M. 1978. Diptera Orthorrhapha Brachycera. Dolichopodidae. – Handbooks for the Identification of British Insects. IX: 5.
+Illustrerad nyckel där en del nordliga arter saknas.
+Stackelberg, A.A. 1930-1971. Dolichopodidae, Unterfamilie Dolichopodinae. – In E. Lindner (ed.). Die Fliegen der Palaearktischen Region. Stuttgart, IV, 29, 51 (1930), 71 (1933), 82 (1934), 138 (1941), 284 (1971): 1-238.
+Volymen blev alldrig färdigstäld.
+Grichanov, I.Y. 2006. A checklist and keys to North European genera and specis of Dolichopodidea. Plant Protection News, Supplement.
+En oilustrerad nyckel till Styltflugorna
+Microphoridae in Chvála, M. 1983. The Empidoidea (Diptera) of Fennoscandia and Denmark. II General Part. The Families Hybotidae, Atelestidae and Microphoridae. Fauna Entomologica Scandinavica 12. p. 243-261
+Microphoridae hör numera till Dolichopodidae
+Kahanpää, J. 2007 Rhaphium latimanum spec. nov., a new long-legged fly from northern Finland, with a redescription of Rhaphium patellitarse (Becker, 1900) (Diptera: Dolichopodidae) – International Journal of Dipterological Research 18: 227-233.
+Rhaphium latimanum. Hittad I Kalixälven och på finska sidan av Torne älven
+Kahanpää, J. 2008. Nematode-induced demasculinisation of Dolichopus males (Diptera: Dolichopodidae). – Zootaxa 1689: 51-62.
+Parent, O. 1938. Diptères Dolichopodidae. – Faune de France 35. Paris.
+Pollet, M. 1996. Systematic revision and phylogeny of the Palaearctic species of the genus Achalcus Loew (Diptera: Dolichopodidae) with the description of four new species. – Systematic Entomology 21: 353-386
+Pollet, M.A.A. & Kechev, M. 2007. A review of Palaearctic Teuchophorus, with a new species from Bulgaria (Diptera: Dolichopodidae). – Zootaxa 1592: 45-56.
+Chandler, P. J. & Negrobov, O. P. (2008) The British species of Xanthochlorus Loew, 1857 (Diptera, Dolichopodidae), with description of two new species. Dipterists Digest, 15, 29–40.
+Xanthochlorus galbanus (förekommer sällsynt i Sk)
+Pollet M., Persson M., Bøggild E. & Crossley R. 2015. A long-lasting taxonomic problem in European Sympycnus resolved, with the description of a new species and data on habitat preferences. Zootaxa 4032 (1): 081–102.
+Sympycnus septentrionalis (förekommer sällsynt i stora delar av Sverige)
+Pollet, M. (1993) Morphological and ecological characterization of Hercostomus (Hercostomus) plagiatus and a sibling species, H. verbekei sp.n. (Diptera: Dolichopodidae). Zool. Scr. 22(1), 101-109.
+Hercostumus verbekei (ett fynd i Sk)
+Pollet, M. (1990) Phenetic and ecological relationships between species of the subgenus Hercostomus (Gymnopternus) in western Europe with the description of two new species (Diptera: Dolichopodidae). Syst. Entomol. 15(3), 359-83.
+Gymnopternus silvestris (fynd från Sk och Up)
+
+Familj Empididae
+Chvála, M. 2005. The Empidoidea (Diptera) of Fennoscandia and Denmark. IV Genus Hilara. Fauna Entomologica Scandinavica 40.
+Chvála, m. 1994. The Empidoidea (Diptera) of Fennoscandia and Denmark. Genus Empis. Fauna Entomologica Scandinavica 29.
+Collin 1961 British flies VI Empididae.
+Engel, E.O. & Frey, R. 1956. 28. Empididae. Die Fliegen der Palaearktischen region Band IV.
+Gorodkov, K.B. and Kovalev, V.G. 44. Family Empididae in keys to the european part of the USSR p. 886-1025
+Bartak 1982. The Czechoslovak species of Rhamphomyia, With Description of a new species from central europe. Acta Universitatis Carolinae – Biologica 381-461
+Bartak 1985. A revision of the Rhampomyia subgenus lundstroemiella, With description of a new species. Acta Universitatis Carolinae – Biologica 9-46
+Chvála, M. & Merz, B. 2009. The Hilara species (Diptera, Empididae) of Switzerland, with respect to the fauna of the Alps and other central European mountains. – Revue Suisse De Zoologie 116: 509-633.
+Barták, M. & Kubík, Š. 2012. A review of the Palaearctic species of Rhamphomyia subgenus Holoclera (Diptera: Empididae) with description of 5 new species. – Revue Suisse De Zoologie 119: 385-407.
+Familj Hybotidae
+Chvála 1975. The Tachydromiinae (Dipt. Empiddiae) of Fennoscadia and Denmark. Fauna Entomologica Scandinavica 3.
+Chvála, M. 1983. The Empidoidea (Diptera) of Fennoscandia and Denmark. II General Part. The Families Hybotidae, Atelestidae and Microphoridae. Fauna Entomologica Scandinavica 12.
+Här endast Subfamily Hybotinae and Ocydromiinae.
+Grootaert, P. & Jonassen, T. 1991. A new species of Platypalpus (Diptera: Hybotidae, Tachydromiinae), from Norway. Etnomologica Scandinavica 22: 31-33
+Chvála, M. 1989. Monograph of Northern and Central European species of Platypalpus (Dipteram Hybotidae), With data on the occurrence in Czechoslovakia. Acta Universitatis Carolinae – Biologica 32: 209-376.
+Kovalev, V.G. 1971. New European species of the genus Platypalpus Macq. (Diptera, Empididae). – Entomologicheskoe obozrenie 50: 200-213 [på ryska.]
+Kovalev, V.G. 1972. Diptera of the genera Drapetis Mg. and Crossopalpus Bigot (Diptera, Empididae) from the European part of the USSR. – Entomologicheskoe obozrenie 51: 173-196 [på ryska].
+Barták, M. & Kubík, Š. 2013. Species of Bicellaria Macquart (Diptera: Hybotidae) of Europe, with descriptions of four new species. – Zootaxa 3647: 251-278.
+Cyclorrhapha (Högre flugor)
+Aschiza
+Överfamilj Lonchopteroidea
+Familj Lonchopteridae
+Släkten 1, arter 9
+Bartak, M. 1986 Ceskoslovenské druhy celedi Lonchopteridae (Diptera)
+Språk: Nyckel till arterna på Engelska
+Bährmann, R. & Bellstedt, R. 1988 Beobachtungen und Untersuchungen zum Vorkommen der Lonchopteriden auf dem Gebeit der DDR, mit einer Bestimmunstabelle der Artern. Dtsch. ent. Z. N. F. 35 (4-5):265-279.
+Språk: Tyska
+Drake, C.M. 2002. The Distribution and habitat preferences of British Lonchopteridae (Diptera). Entomologists Monthly magazine. 138: 121-133
+Språk: Engelska
+Smith, K.G.V. 1969. Diptera Lonchopteridae. Handbooks for the identification of British insects Vol.X. Part2(ai)
+Språk: Engelska
+Överfamlij Platypezoidea
+Familj Opetiidae
+en art Opetia nigra
+Chandler, P.J. 2001 Flat-Footed Flies (Diptera:  Opetiidae and Platypezidae) of Europe. Fauna entomologica scandinavica 36
+Familj Phoridae
+kan inte
+Disney, R.H.L. 1989. Scuttle Flies Diptera, Phoridae Genus Megaselia. Handbooks for the Identification of British Insects Vol. 10, Part 8.
+Disney, R.H.L. 1983. Scuttle Flies Diptera, Phoridae (exept Megaselia). Handbooks for the Identification of British Insects Vol. 10, Part 6.
+Familj Platypezidae
+Chandler, P.J. 2001 Flat-Footed Flies (Diptera:  Opetiidae and Platypezidae) of Europe. Fauna entomologica scandinavica 36
+Ståhls, G. et al. 2015. mtDNA COI in efficient use: clarifying taxonomy, linking morphologically discordant sexes and identifying the immature stages of Agathomyia Verral flat-foted flies (Diptera: Platypezidae) Journal of Zoological Systematics and Evolutionary Research.
+Överfamilj Syrphoidea
+80 släkten, 402 arter
+Familj Syrphidae
+Bartsh, H. 2009. Tvåvingar: Blomflugor Diptera: Syrphidae: Eristalinae & Microdontinae Nationalnyckeln 
+Bartsh, H. 2009. Tvåvingar: Blomflugor Diptera: Syrphidae: Syphinae Nationalnyckeln 
+Bartsch, H., Ståhls, G. & Kerpolla, S. 2010 Rödbent mulmblomfluga Chalcosyrphus valgus och dess dubbelgångare (Diptera, Syrphidae) Fauna&Flora 30-35
+Vujic et al 2013 Systematisc of Pipizini and taxonomy of European Pipiza Fallén: molecular and morphological evidence (Diptera, Syphidae) Zoologica Scripta
+van Steenis, J. & Lucas, J.A.W. 2011 Revision of the West-Palaearctic species of Pipizella Rondani, 1856 (Diptera, Syrphidae). Dipterists Digest 18, 127-180
+Haarto, A. & Ståhls, G. 2014 When mtDNA COI is misleading congruent signal of ITS2 molecular marker and morphology for North European Melanostoma Schiner, 1860 (Diptera, Syrphidae). ZooKeys 431:93-134
+Haarto, A. 2014. Identification of the Finnish species of Paragus Latreille, 1804 subgenus Pandasyopthalmus Stuckenberg, 1954 (Diptera, Syrphidae). Sahlbergia 20.2:2-5
+Haarto, A. 2014. Platycheirus modestus Ide, 1926 (Diptera, Syrphidae) new to the Palearctic region. Sahlbergia 20.2 (2014), 6-8
+Familj Pipunculidae
+13 släkten, 94 arter
+Kozanek, M., de Meyer, M. & Albrecht, A. Family Pipunculidae in Contribution to a manual of palaearctic diptera. V3. p 141-150.
+Kehlmaier, C. & Assmann, T. 2008 The European species of Chalarus Walker, 1834 revisited (Diptera: Pipunculidae). Zootaxa 1936:1-39
+Kehlmaier, C. 2005 Taxonomic revision of European Eudorylinii (Insecta, Diptera, Pipunculidae). Verh. naturwiss. Ver, Hamburg p. 45-353
+Kehlmaier, C. 2006. The West-Palaearctic species of Jassidophaga Aczél and Verrallia Mik described up to 1966 (Diptera: Pipunculidae). Stuttgarter Beitr. Naturk. Ser. A. p. 1-34
+Kehlmaier, C. 2008 Finnish Pipunculidae (Diptera) studies Part I: Taxonomic notes on Cephalops Fallén, 1810, Pipunculus Latreille, 1802 and Tomosaryella Aczék, 1939. Zootaxa 1672:1-42
+Kehlmaier, C. 2010 A nomenclatural note on European Chalarus (Diptera: Pipuculidae): a new synonymy of C. elegantulus Jervis, 1992. Zootaxa 2656:67
+Albrecht, A. 1990. Revision, Phylogeny and classification of the genus Dorylomorpha (Diptera, Pipunculidae). Acta Zoologica Fennica 188.
+de Meyer, M. 1989 The West-Palaerctic species of the pipunculid genera Cephalops and Beckerias (Diptera): classification, phylogeny and geographical distribution. Journal of Natural History 23:725-765
+Földvari, M. & de Meyer, M. 1999. Revision of central and west european Tomosvaryella Aczél species (Diptera, Pipunculidae). Acta Zoologica Academica Scientiarum Hungariacea 45(4): 299-334
+Grootaert, P. & de Meyer, M. 1986 On the taxonomy and ecology of Nephrocerus Zetterstedt (Diptera, Pipunculidae) wioth a redescription of N. lapponicus and a key to the European species. Bull. inst. R. Sci, Nat, Belg.:Entomologie 56:85-91
+Coe, R.L. 1966. Diptera Pipunculidae. Handbooks for the identification of British insects. Vol. X. part 2 (c)
+Föråldrad och bara britiska arter…
+
+Schizophora
+Acalyptratae
+Överfamilj Carnoidea
+Familj Braulidae
+1 art. Braula coeca
+Familj Canacidae
+2 släkten Pelomyiella & Thetina 5 arter
+kan inte
+Munari, L. 1998 Family Tethinidae in Contribution to a manual of  v3 p243-250
+Mathis, W.N. 1998. Family Canacidae in Contribution to a manual of v3 p251-256
+Familj Carnidae
+2 släkten Carnus &  Meoneura 13 arter
+kan inte
+Papp, L. 1998. Family Carnidae in Contribution to a manual of V3 p211-217
+Familj Chloropidae
+42 släkten 187 arter
+Nartshuk & Andersson 2013 The Frit Flies of Fennsocandia and Denmark. Fauna entomologica scandinavica 43.
+Familj Milichiidae
+7 släkten 20 arter
+kan inte
+Milichidae online http://milichiidae.info/category/classification/milichiidae
+Papp, L. & Wheeler, T. A. 1993 Family Milichiidae in contribtuion to a manual of V3 p315-324.
+Nyckel till släkterna
+Överfamilj Conopoidea
+Familj Conopidae
+8 släkten, 27 arter
+van Veen, M. 2010. Conopidae of Northwest Europe http://home.hccnet.nl/mp.van.veen/conopidae/
+Kahanpää 2007 A review of Finnish Thecophora Rondani, 1845 (Diptera Conopidae). Entomologica Fennica. 18: 168–173.
+Stuke, J-H. & Clements, D.K. 2008 Revision of the Myopa testacea Species-Group. Zootaxa 1713: 1–26
+Östrand, F. 2009. stekelflugor i södra Sverige. FaZett p. 11-18
+Överfamilj Diopsoidea
+http://www.dipteristsforum.org.uk/documents/Diopsoidea.pdf
+Familj Megamerinidae
+1 art. Megamerina dolium
+Familj Psilidae
+6 släkten, 30 arter
+Andersson, H. 1990 De svenska arterna av släktet Chyliza Fallén (Diptera: Psilidae) FaZett p 42-44
+Diopsoidea pdf - http://www.dipteristsforum.org.uk/documents/Diopsoidea.pdf
+Wang 1988 Bestimmungstabelle der westpaläarktischen Chamaepsila (Diptera: Psilidae). Stutgarter Beiträge zur Naturkunde Serie A (Biologie)
+Iwasa, M. 1988. Family Psilidae in Contribution to V3 p177-183
+Familj Strongylophthalmyiidae
+1 släkte, 2 arter. Strongylophthalmyia pictipes & Strongylophthalmyia ustulata
+Kahanpää, J. 2006. Key to European Strongylophthalmyia (Strongylophthalmyiidae) http://www.elisanet.fi/~d625473/diptera/strongy/
+Krivosheina, N.P. 1982 New Palearcit scecies of the Genus Strongyliophthalmyia Hell. (Diptera, Strongylophthalmyiidae). P 162-165
+Familj Tanypezidae
+1 art Tanypeza longimana
+Överfamilj Ephydroidea
+Familj Camillidae
+1 släkte Camilla, 3 arter
+Beuk, P.L.Th., & H. de Jong, 1994. Key: Key to the Western European species of Camilla (Diptera: Camillidae). https://www.online-keys.net/infusions/keys/keys_view.php?key_no=7
+Beuk, P.L.Th., & H. de Jong, 1994. The Dutch species of the Camillidae (Diptera). - Entomologische Berichten, Amsterdam 54(1): 1-6.
+Familj Campichoetidae
+1 släkte Campichoeta, 3 arter
+Chandler, P.J. 1987. The families Diastatidae and Campichoetidae (Diptera, Drosophiloidea) with a revision of Palaearctic and Nepalese species of Diastata Meigen. Entomologica scandinavica 18:1-50 p. 45-49.
+Familj Diastatidae
+1 släkte Diastata 9 arter
+Chandler, P.J. 1987. The families Diastatidae and Campichoetidae (Diptera, Drosophiloidea) with a revision of Palaearctic and Nepalese species of Diastata Meigen. Entomologica scandinavica 18:1-50
+Familj Drosophilidae
+12 Släkten, 77 arter.
+Baechli, G. Vilela, C.R. Andersson Escher, A. & Saura, A. 2004. The Drosophilidae (Diptera of Fennoscandia and Denmark. Fauna entomologica scandinavica 39.
+Hellqvist, S. Ericson, N. & Struwe, I. Intressanta fynd av daggflugor, med en uppdaterad provinskatalog över de svenska arterna (Diptera: Drosophilidae).  Entomologisk Tidskrift 138(3-4): 189-202.
+Familj Ephydridae
+40 släkten 152 arter
+Det är dåligt med literatur och med regeln hur sämre med literatur det finns destå mer behöver man så blir det en lång lista… Behöver nog ta varje släkte för sig.
+DFDPR
+Mathis, W.N. & Zatwarnicki , T. Family EPHYDRIDAE in Contributions to a manual vol3. p537-570
+Nyckel till släkten
+Andersson, H. 1971 The European Species of Limnellia (Dipt., Ephydridae). Ent. Scand 2. 53-59.
+Clausen P.J. REVISION OF THE NEARCTIC, NEOTROPICAL, AND PALEARCTIC SPECIES OF THE GENUS OCHTHERA, INCLUDING ONE ETHIOPIAN SPECIES, AND ONE NEW SPECIES FROM INDIA. TRANS. AMER. ENT. SOC, VOL. 103 p 451-530
+Dahl, R. 1968 De svenska Hydrellia-arterna (Diptera Ephydridae). Entomologisk tidsskrift  89 19-25
+Drake, C.M. 2006 BRITISH EPHYDRIDAE (DIPTERA). https://www.diptera-in-beeld.nl/Ref-Key%20Ephydridae%20British%20key%20-%20new%20(2006)-C.M.Drake.pdf?fbclid=IwAR2hEWzq8lxXApcn-5kvU5TDht8vpIGuXlbnm7K2KhjyMfD6l14sYypdjT4
+Updates March 2013 new Scatophila and Philotelma keys.
+Krivosheina 1989 A review of the Genus Parydra of the USSR
+Krivosheina 1992 Pelina
+Språk: Ryska
+Krivosheina 1998 A revision of the shore-fly genus Notiphila of Palaearctic
+Krivosheina 2001 Coenia
+Mathis 1975 A SYSTEMATIC STUDY OF COENIA AND PARACOENIA
+Mathis 1982 Studies of Ephydrinae VII Revision of the Genus Setacera
+Mathis 1993 A Revision of the Shore-Fly Genus Hecamede
+Mathis et al 2009 A revision of the shore-fly genus Philotelma Becker (Diptera Ephydridae)
+Mathis Zatwarnicki 2012 Revision of new Worls Species of the Shorfly Subgenum Allotrichoma
+Mathis Zatwarnickki 2012 A revision of the New World species of Gymnoclasiopa Hendel
+Olafsson 1991 Taxonomic revision of western Palaearctic species of the genera Scatella and Lamproscatella
+Stuke 2010 Die Uferfliegen Niedersachsens und Bremens - Teil I
+Stuke 2010 Die Uferfliegen Niedersachsens und Bremens - Teil II
+Wirth 1975 A Revision of the Brine Flies of the Genus Ephydra of the Old World (Diptera Ephydridae)
+2000_Beschovski&Zatwarnicki_Faunistic_Review_of_the_subfamily_Discomyzinae_in_Bulgaria
+Zatwarnicki & Mathis 2007 A revision of the Palearctic species of the shore-fly genus Discomyza Meigen (Diptera Ephydridae)
+Zatwarnicki 1991 Changes in nomenclature and synonymies of some genera and species of Ephydridae
+Överfamilj Lauxanioidea
+Familj Lauxaniidae
+Släkte 24 Arter 89
+Papp, L. & Shatalkin, A. Lauxanidae in Contributions to a manual of Palaearctic Diptera V3 p383-400
+Schacht, W. Kurina, O. Merz, B. & Gaimari, S. 2004. Zweifliigler aus Bayern XXIII (Diptera: Lauxaniidae, Chamaemyiidae)
+Inehåller en översättninga av SHATALKIAN.,I . 2000 kaey to the Palaerarctic Flies of the Family Lauxaniidae till Engelska (saknar bilderna)
+Shatalkin, A.I. 2000. Keys the the Palaearcitc Flies of the Family Lauxaniidae (Diptera)
+Nyckel till arter med tushteckningar.
+Språk: Ryska
+Familj Chamaemyiidae
+7 Släkten, 26 arter
+Det är dåligt med litteratur och det stora verket är på ryska och de hade nog dålig tillgång till typmaterial så det är en viss förvirring över vilken art som är vilken.
+McLean, F.G. Chamaemyiidae in Contributions to a manual of Palaearctic Diptera v3 p 415-423
+Tanasijtshuk 1986 Family Chamaemyiidae in Fauna SSSR
+Det stora verket
+Språk: Ryska.
+Beschovski 1992 Taxonomical notes on Chamaemyia flavipalpis Ch aridella Ch junicorum
+Beschovski 1995 Contribution to the knowledge of the taxonomy and distribution of the Chamaemyia species in Bulgaria
+Beschovski 1995 Contribution to the knowledge of the taxonomy and distribution of the Chamaemyia
+Collin, J. E. 1966 The British Species of Chamaemyia Mg.  (Ochthiphila Fln.) (Diptera). Transactions of the society for British entomology 17: 121-128
+McAlpine 1971 A Revision of the subgenus Neoleucopis
+McLean 1982 Three species of Leucopis new to britain
+McLean 1998 Leucopis psyllidiphaga sp n new species of silverfly from Britain
+McLean, S. 1998 Leucopis glyphinivora new to britain and the aerial
+Tanasijchuk Beschovski 1991 A contribution to the study of Chamaemyia species for Bulgaria
+Överfamilj Nerioidea
+Familj Pseudopomyzidae
+1 art Pseudopomyza atrimana
+Familj Micropezidae
+5 släkten 8 arter
+Kahanpää, J. 2006 Micropezid flies in Finland (Diptera: Micropezidae) http://www.elisanet.fi/~d625473/diptera/micropezidae/
+Andersson, H. 1989. Taxonomic notes on Fennoscandian Micropezidae (Diptera). Notulae Entomol., 69: 153-162.
+Överfamilj Opomyzoidea
+Familj Acartophthalmidae
+1 släkte 3 arter Acartophthalmus bicolor, A.nigrinus, A.pusio
+Nilsson, V.J. 2009. Bidrag till kännedomen om de acalyptrata flugorna. Del 1. Acartophthalmidae och Clusiidae samt några smärre notiser. Skörvnöpparn 1:9-15
+Familj Agromyzidae
+Släkten 19, arter 318
+Spencer, K.A. 1976 The Agromyzidae (Diptera) of Fennoscandia and Denmark. Fauna entomologica Scandinavica 5 part1+2
+Familj Anthomyzidae
+8 släkten, 19 arter
+Rohacek, J. Family ANTHOMYZIDAE in Contribution to a manual of Palaerctic Diptera
+Rohacek, J. 2006. A monograph of Palaeractic Anthomyzidae (Diptera) Part 1. Cas. Slez. Muz. Opava (A), 55, suppl.1: 1-328.
+Rohacek, J. 2009. A monograph of Palaeractic Anthomyzidae (Diptera) Part 2. Cas. Slez. Muz. Opava (A), 58, suppl.1: 1-180.
+Andersson, H. 1976 Revision of the Anthomyza species of Northwest Europe (Diptera: Anthomyzidae) I. The gracilis group. Entomologica scandinavica 7: 41-52
+Andersson, H. 1985 Revision of the Anthomyza species of Northwest Europe (Diptera: Anthomyzidae) II. The pallida group. Entomologica scandinavica 15: 15-24
+Familj Asteiidae
+3 släkten, 8 arter
+Andersson 1991 De svenska smalvingeflugorna
+Key: Key to the Asteiidae of North Western Europe and the West Palaerctic
+(Diptera). Online-keys.net https://www.online-keys.net/infusions/keys/keys_view.php?key_no=6
+Chandler, J. P. 1978. A REVISION OF THE BRITISH ASTEIIDAE (DIPTERA) INCLUDING TWO ADDITIONS TO THE BRITISH LIST. PROC. BRIT. ENT. NAT. HIST. SOC, p 23-34
+Familj Aulacigastridae
+1 Släkte, 2 arter. Aulacigaster leucopeza, Aulacigaster pappi
+NILSSON-ÖRTMAN, V. 2010. Första fynden i Sverige av den förbisedda savflugan Aulacigaster pappi Kassebeer, 2001 (Diptera: Aulacigastridae). Entomologisk Tidskrift 131(3): 237-239
+Rung & Mathis 2011. A revision of the genus Aulacigaster Macquart (Diptera: Aulacigastridae). Smithsonian contributions to zoology 633
+Familj Clusiidae
+4 Släkten, 13 arter
+Släkterna går bra att nyckla fram i Contribution to a manual. Sven har hittat Clusiodes freyi i Sverige. 
+Sasakawa, M. Family Clusiidae in Contributions to a manual of Palaearctic Diptera v3 p. 219-225
+LONSDALE & MARSHALL: Redefinition of the genera Clusiodes and Hendelia (Diptera: Clusiidae, Clusiodinae). Studia dipterologica 14 (2007) Heft 1: 117–159
+Tuomikoski, R. 1933 Notizen uber die Clusiiden Finnlands. Notulae Entomologicae 13:15-19
+inehåller beskrivningen av Clusiodes freyi
+Familj Odiniidae
+2 släkten, 6 arter.
+Dåligt med litteratur och Odinia behöver revideras.
+Papp, L. Family Odiniidae in Contributions to a manual of Palaearctic Diptera v3 p. 233-242
+Schact, W. & Heuk, P. Zweiflügler aus Bayern XXVI mit Nachträgen. Entomofauna Band 31, Heft 29: 437-452
+MacGowan, I. & Rotheray, G.E. 2002 A new species of Odinia (Diptera, Odiniidae) from Scotland. Dipterists Digest 9: 67-69
+Beskrivninga av Odinia betulae/rossi
+MacGowan, I. & Horsfield, D. 2009. Odinia czernyi Collin (Diptera, Odiniidae) new to Britain. Dipterists Digest 9: 107-110
+Familj Opomyzidae
+3 släkten, 18 arter
+Drake, C.M. 1993 A REVIEW OF THE BRITISH OPOMYZIDAE (Diptera). BR. J. ENT. NAT. HIST., 6: 159-176
+Hedström, L. 1995. Svenska insektsfynd - rapport 8. Entomologisk tidsskrift 116(3) :101-117
+Inehåller en nyckel till Nordiska Geomyza
+Brunel, E. Family Opomyzidae in Contributions to a manual of Palaearctic Diptera v3 p. 259-266
+Familj Periscelididae
+2 släkten, 2 arter
+Mathis, W.N. & Papp, L. Periscelididae in Contributions to a manual of Palaearctic Diptera v3 p285-294
+Papp, L. & Withers, P. 2011. A revision of the Palaearctic Periscelidinae with notes on some New World species (Diptera: Periscelididae). ANNALES HISTORICO-NATURALES MUSEI NATIONALIS HUNGARICI 103: 345-371
+Familj Stenomicridae
+2 släkten, 3 arter
+Merz, B. Rohacek, J. 2005 The Western Palaearctic species of Stenomicra Coquillett (Diptera, Periscelididae, Stenomicrinae), with description of a new species of the subgenus Podocera Czerny. REVUE SUISSE DE ZOOLOGIE 112 (2): 519-539
+Överfamilj Tephritoidea
+Familj Eurygnathomyiidae
+1 art. Eurygnathomyia bicolor
+Familj Lonchaeidae
+6 släkten, 65 arter
+Lonchaeidae Online http://lonchaeidae.myspecies.info/
+MacGowan, I. & Rotheray, G. 2008. Britsh Lonchaeidae Diptera Cyclorrhapha, Acalytratae. Handbooks for the Identifaction of British Inects. Vol. 10 Part 15
+MacGowan, I. A. 2014 reviwe of the Lonchaea fraxinea group os soecues (Diptera: Lonchaeidae) with the description of a new species. Entomologisk Tidsskrift 135(4):179-186
+MacGowan, I. 2014. Three new species of Protearomyia McAlpine, 1962 (Diptera: Lonchaeidae) with a key to males of the Palearctic species. Zootaxa 3796(2):337-348
+MacGowan, I., Merz, B. & Wermelinger, B. 2007. Six species of Lonchaea Fallén (Diptera, Lonchaeidae) new to Switzerland. MITTEILUNGEN DER SCHWEIZERISCHEN ENTOMOLOGISCHEN GESELLSCHAFT BULLETIN DE LA SOCIÉTÉ ENTOMOLOGIQUE SUISSE 80: 31–35
+Familj Pallopteridae
+3 släkten, 15 arter
+Andersson, H. 1990. De svenska prickflugorna (Diptera, Pallopteridea), med typdesigneringar och nya synonymer. Entomologisk Tidsskrift 111:123-131
+Rotheray, G.E. & MacGowan, I, 1999. Palloptera anderssoni sp. n. from scotland and Finland (Diptera: Pallopteridae) Br. J. Ent. Nat. Hist 11:175-179
+Familj Piophilidae
+13 släkten, 22 arter
+McAlpine, J.F. 1977. A Revised Classfication of The Piophilidae, includein ´Neottiophilidae` and `Thyreophoridae` (Diptera: Schizophora). Memoirs of the entomological Society of Canada No. 103
+Merz, B. 1996 Die Piophilidae (Diptera) der Schweiz mit Beschreibung einer neuen Art
+Ozerow, A. Family Piophilidae in Contribution to a Manual Appendix p.355-365
+Rochefort, S. & Wheeler, T. 2015. Diversity of Piophilidae (Diptera) in northern Canada and description of a new Holarctic species of Parapiophila McAlipne. Zootaxa 3925 (2):229-240
+Stubbs, A.E. & Chandler, P.J. 2001. A provisional key to British Piophilidae (Diptera) and Parapiophila flavipes (Zetterstedt, 1847) new to Britain. Dipterists Digest 2001 8:71-78
+Familj Platystomatidae
+2 släkten, 2 arter. Platystoma seminatione, Rivellia syngenesiae
+Greve, L. 1990. The Family Platystomatidae (Diptera) in Norway. Norway. Fauna norv. Ser. B,
+37: 107-110
+Familj Tephritidae
+34 släkten, 81 arter
+Det finns inte så mycket nordliga arter så Insecta Helvetica fungerar bra för Svenska förhållanden. Det ryktas finnas en obeskriven art på Crepis paludosa…
+Merz, B. 1994. Diptera Tephritidae. Insecta Helvetica fauna 10
+Språk: Tyska
+Smit, J.T 2010. De Nederlandse boorvliegen (Tephritidae). Entomologische tabellen 5
+Språk: Ne White, I.M. 1988. Tephritid Flies Diptera: Tephritidae. Handbooks for the Identification of British Insects Vol. 10, Part 5a
+Språk: Engelskaderländska
+Familj Ulidiidae
+9 släkten, 20 arter
+Greve. L. 1997. Families Otitidae and Ulidiidae (Diptera) in Norway. Fauna norv. Ser. B 44:129-142
+Andersson, H. 1991. Revision of Swedish Homalocephala Zetterstedt (Diptera, Otitidae). Entomologisk Tidsskrift. 112:27-32
+Kameneva, E. P.  & Korneyev, V. A. 2015. Key to species of the genus Homalocephala Zetterstedt 1838 (Diptera: Ulidiidae). Ukrainska Entomofaunistyka 2015 6(1)
+Språk: Engelska
+Merz, B. 1996. Systematik und Faunitik der Gattung Herina (Diptera, Otitidae) der Schweiz. 
+Smit, J.T. 2005. Die Prachtvleig Tetanops sintenisi nieuw voor Nederland (Diptera: Ulidiidae)
+Rikhter, V.A. Family Otitidae in keys to the european part of 
+Överfamilj Sciomyzoidea
+Familj Coelopidae
+2 släkten, 3 arter
+Greve, L. 1999 Litt on tangfluer familien Coelopidae. Insekt-Nytt 24(1):15-20
+McAlpine, D.K. Family Coelopidae in Contribution to a manual of V3. p 335-340
+Familj Dryomyzidae
+4 släkten, 5 arter.
+Ericson & Hellqvist 2013 De svenska buskflugorna med Paradryomyza spinigera som ny art för landet. Skörvnöparn.  5(1):1-4
+Familj Helcomyzidae
+1 art Helcomyza ustulata
+Familj Heterocheilidae
+1 art Heterocheila buccata
+Familj Sciomyzidae
+23 släkten, 83 arter
+Rozkosny, R. 1984. The Sciomyzidae (Diptera) of Fennoscandia and Denmark 14.
+Rozkosny 1991 A key to the Palaearctic species of Pherbellia Robineau-Descoidy, with descriptions of three new species (Diptera, Sciomyzidae). Acta Entomologica Bohemoslov. 88:391-406
+Familj Sepsidae
+8 släkten, 36 arter
+Pont, A.C. & Meier, R. 2002. The Sepsidae (Diptera) of Europe. Fauna Entomologica Scandinavica 37
+Överfamilj Sphaeroceroidea
+Familj Borboropsidae
+1 art Borboropsis puberula
+Familj Chiropteromyzidae
+2 släkten, 2 arter. Chiropteromyza broersei & Neossos nidicola
+Papp, L. Families of Heleomyzoidea in Contribution to a manual of v.3 p425-455
+Familj Chyromyidae
+2 släkten, 5 arter
+Andersson, H. 1971. The Swedish species of Chyromyidae (Diptera),  with lectotype designations. Entomologisk tidsskrift 92 (1-2) 95-99.
+Ebejer, M.J. 2010 The identification of females of the West Palaearctic species of Gymnochiromyia Hendel (Diptera: Chyromyidae) and descriptions of five new species from Israel and United Arab Emirates. Israel Journal of Entomology 40: 145-168.
+Familj Heleomyzidae
+släkten 14, arter 68
+Papp, L. Families of Heleomyzoidea in Contribution to a manual of v.3 p425-455
+Hedström, L. 1995 Svenska insektfynd - rapport 8. Entomologisk Tidsskrift 116 (3): 101-117
+Innehåller en nyckel till Svenska Suillia arter. Obs att det har hittats några till sedan dess.
+Withers, P. 2010. An annotades list of Heleomyzidae and allied families (Diptera) of Sweden. Dipterist Digest 17: 171-179.
+Key: The British species of the genus Suillia. online-keys.net. https://www.online-keys.net/infusions/keys/keys_view.php?key_no=19
+Gorodkov, K.B. Family Helomyzidae (Heleomyzidae) in keys to the European part of … p.511-537
+Familj Sphaeroceridae
+släkten 35 arter 146
+Har dålig koll och det behövs mera…
+Rohacek, J. Family SPHAEROCERIDAE in Contributions to a manual of Palaearktik Diptera. V3. p. 463-496
+Pitkin, B. R. 1988. Kesser dung flies Diptera: Sphaeroceridae. Handbooks for the Identification of British Insects Vol. 10, Part 5e.
+Underfamilj Copromyzinae
+6 släkten, 21 arter
+Hackman, W. 1965 On the genus Copromyza Fall. (Dipt., Sphaeroceridae), with special reference to the finnish species. Notulae entomologicae p.33-46.
+Rohacek, J. 1976. Revision of Copromyza (Crumomyia) from Csechoslovakia, with the description of a new species (Diptera, Sphaeroceridae)
+Underfamilj Sphaerocerinae
+2 släkten, 10 arter
+Rohacek, J. & Papp, L. 1984. Ischiolpeta Lioy (Diptera: Sphaeroceridae): Two new species and taxonomical notes. Acta Xoologica Hungarica 30 (3-4) p. 469-479
+Rohacek, J. & Floren, F. 1987. New Subspecies of Sphaerocera pseudomonilis from Sweden (Diptera, Sphaeroceridae). Reichenbachia 
+Underfamilj Limosininae
+27 släkten, 115 arter
+kan inte
+Rohacek, J. & Marshall, S. A. 2000. A world revision of the seaweed fly genus Thoracochaeta Duda (Diptera: Sphaeroceridae: Limosininae) Part 2: Palaeractic species. Studia dipterologica 7 (2):313-372
+Familj Trixoscelididae
+1 släkte Trixoscelis, 4 arter
+Hackman, W. 1970. Trixoscelidae (Diptera) from southern Spain and Description of a New Trixoscelis Specis from Northern Europe. Entomologica Scandinavica 1:127-134.
+Inehåller en nyckel till arterna I Palearktis
+Calyptratae
+Överfamilj Hippoboscoidea
+Hutson, A. M. 1984 Keds, flat-flies and bat-flies. Handbooks for the identification of the British insects Vol. 10, Part 7.
+Familj Hippoboscidae
+10 släkten, 14 arter
+Key: Northwestern European Hippoboscidae. Online-keys.net https://www.online-keys.net/infusions/keys/keys_view.php?key_no=12
+Andersson, H. 1985 De svenska lusflugorna. Entomologisk tidsskrift 106: 15-25.
+Familj Nycteribiidae
+3 släkten, 3 arter. Basilia nana, Nycteribia kolenatii, Penicillidia monoceros
+Andersson, H. 1982 Fladdermusparasiter och svenska fynd av fladdermusflugor. Entomologisk tidsskrift 103:1-3
+Överfamilj Muscoidea
+Familj Anthomyiidae
+30 släkten, 340 arter
+Acklands nycklar och bilder med kombination av Svensk insektsfauna borde fungera rätt så bra för att artbestämma Svenska Anthomyiidae.
+Ackland, M. British Anthomyiidae.
+Utmärkta genitaliebilder och Nycklar. Har inte blivit formelt pulicerade men går att få tag på Genom DipteristsForum https://www.dipterists.org.uk/
+Suwa, M. Darvas, B. Anthomyiidae in Contributions to a manual of Palaearctic Diptera v3 p. 571-616
+Ringdahl, O. 1959. fam. Muscidae häfte 3. Svensk insektfauna 11.
+Ackland & Michelsen 1987 The Palearctic species of the Phorbia curvicauda (Zetterstedt) group (Diptera Anthomyiidae)
+Lyneborg, L. 1965 The Fucellia maritima-group in North Europe, with description of a new species (Dipt., Anthomyiidae)
+Michelsen, V. 1980 A revision of the beet leaf-miner complex, Pegomya hyoscyami s.lat. (Diptera Anthomyiidae). Entomologica Scandinavica 11:297-309.
+Michelsen, V. 1980 The Anthomyia pluvialis complex in Europe (Diptera, Anhtomyiidae). Systematic Entomoly 5:281-190
+Michelsen, V. 1983 A new species of Botanophila Lioy from Denmark (Diptera: Anthomyiidae). Entomologica Scandinavica 14: 293-296
+Michelsen, V. 1983 The Anthomyiidae (Diptera) described by Fallén, with a review of European Emmesomyia Malloch. Entomologica Scandinavica 14: 109-120
+Familj Fanniidae
+2 släkten, 64 arter
+Bartak, M. et al. 2016. Fanniidae (Diptera): new synonym, new records and an updated key to males of European species of Fannia
+Rozkosny, R., Gregor, F. Pont, A.C. 1997. The European fanniidae (Diptera)
+Familj Muscidae
+37 arter 367 släkten
+Gregor, F., Rozkosný, R. Barták, M. & Vanhara, J. 2016. Manual of Central European Muscidae (Diptera) Morphology, taxonomy, identification and distribution
+Fonseca 1968. Diptera Cyclorrhapha Calyptrata section (b) Muscidae. Hanbooks for the identification of British insects. Vol X. Part 4(b).
+Ringdahl, O. 1954 Fam. Muscidae häfte 1. Svensk Insektfauna. 11
+Ringdahl, O. 1956 Fam. Muscidae häfte 2. Svensk Insektfauna. 11
+Michelsen 1978 Cryptophyra lundbecki n. gen et n. sp. from North Europe, with some notes on allied hydrotaeine genera (Diptera Muscidae)
+Vikhrev 2011 Review of the Palaearctic members of the Lispe tentaculata species-group
+Familj Scathophagidae
+37 släkten 99 arter
+Hackman, W. 1956 Scatophagidae (Dipt.) Of Eastern Fennoscandia. Fauna Fennica II
+Nyckel till alla finska arter täcker in de som finns I norra Sverige
+Ball, S.G. 2007. Key to the British Scathophagidae key v3.1
+En bra nyckel med foton och teckningar. Tyvärr saknas en del nordsvenska arter i Storbritanien
+de Jong, H. A.12. Family Scathophagidae in Contribution to a manual of palaearctic diptera appendix p. 431-445
+Andersson, H. 1974 Revision of the North European Species of Cosmetopus. Entomologica scandinavica 5: 95-102
+Överfamilj Oestroidea
+Familj Calliphoridae
+15 släkten, 50 arter.
+Rognes, K. 1991. Blowflies (Diptera, Calliphoridae) of Fennoscandia and Denmark. Fauna Entomologica Scandinavica volume 24.
+Erzinclioglu, Z. (1996) Blowflies. Slough: Richmond Publishing.
+Rognes, K. (1992) "Revision of the cluster-flies of the Pollenia vagabunda species-group (Diptera: Calliphoridae)." Insect Systematics & Evolution 23: 95-114.
+Familj  Gasterophilidae
+1 släkte Gasterophilus, 4 arter
+Andersson, H. 1988 De svenska styngen. Entomologisk tidsskrift 109: 31-41
+Familj  Hypodermatidae
+1 släkte Hypoderma  3 arter
+Andersson, H. 1988 De svenska styngen. Entomologisk tidsskrift 109: 31-41
+Familj  Oestridae
+3 släkten 5 arter
+Andersson, H. 1988 De svenska styngen. Entomologisk tidsskrift 109: 31-41
+Familj  Rhiniidae
+1 art Stomorhina lunata
+Familj  Rhinophoridae
+6 släkten 9 arter
+Familj Sarcophagidae
+18 släkten 85 arter
+Pape, T. 1987 The Sarcophagidae (Diptera) of Fennoscandia and Denmark. Fauna entomologica Scandinavica 19.
+Familj  Tachinidae
+171 släkten, 374 arter
+Tschorsnig, H-P. & Richter, V.A. Family Tachinidae in Contributions to a manual of V3. p 691-827
+Tschorsnig, H-P. & Herting, B. 1994. The Tachinids (Diptera: Tachinidae) of Central Europe: Identification Keys for the Species and Data on Distribution and Ecology.
+Translation Rotraud Rayner & Chris Raper, 2001
+Tschorsnig, H.P. & Herting, B. 1994. "Die Raupenfliegen (Diptera: Tachinidae) Mitteleuropas: Bestimmungstabellen und Angaben zur Verbreitung und Ökologie der einzelnen Arten." Stuttgarter Beitrage zur Naturkunde A506: 1-170.
+Andersen, S. 1996. The Siphonini (Diptera: Tachinidae) of Europe. Fauna entomologica scandinavica 33.
+Belshaw, R. 1993. Tachnid Flies. Diptera: Tachinidae. Royal Entomological Society of London Handbook 10(4ai).
+Bergström, C. 2007 A new species of Nilea Robineau-Desvoidy (Diptera, Tachinidae) with notes on the genus and a key to the North European species. Entomologisk Tidskrift 128 (4):151-161
+Novotna, H., Vanhara, J., Tóthová, A., Muráriková, N., Bejdák, P., Tkoc, M., & Rozkosny, R. (2009) "Identification and taxonomy of the West Palaearctic species of Tachina Meigen (Diptera: Tachinidae) based on male terminalia and molecular analyses." Entomologica fennica 20: 139-169. 
